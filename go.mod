@@ -1,4 +1,4 @@
-module github.com/mabdh/go-fasttext
+module github.com/chenjunpc2008/go-fasttext
 
 go 1.21
 
