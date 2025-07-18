@@ -1,5 +1,7 @@
 # go-fasttext
 
+fork from github.com/mabdh/go-fasttext
+
 Serving [fastText](https://github.com/facebookresearch/fastText) model with go
 
 ## Dependencies
